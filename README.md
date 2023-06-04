@@ -5,4 +5,4 @@
 • The Raspberry Pi controller stores and processes the sensor data and sends it to a remote web server by means of IOT communication protocols.<br/>
 • On the webserver side, a graphical user interface can be developed to properly visualize the weather data in tabular or graph format.<br/>
 
-
+# Working
