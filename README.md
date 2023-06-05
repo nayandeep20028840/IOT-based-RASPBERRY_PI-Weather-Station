@@ -14,8 +14,23 @@
 
 ## Sensors
 
-<img width="300" alt="homepage" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/fef8d35e-0228-4e4d-b01a-ecbff321f9c9.PNG">
-<img width="300" alt="homepage" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/33a28de1-c5c7-4eee-b5f1-547dfa3cce92.PNG">
+<img width="300" alt="sensors" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/fef8d35e-0228-4e4d-b01a-ecbff321f9c9.PNG">
+<img width="300" alt="sensors" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/33a28de1-c5c7-4eee-b5f1-547dfa3cce92.PNG">
+
+## Application Development
+
+• The RaspController application allows you to easily manage your Raspberry Pi remotely. Now it is possible for files, to control the GPIO ports, send commands directly through the terminal, view images from a connected camera and obtain data from different sensors. Finally, wiring diagrams, pins and various information are available for the correct use of the Raspberry Pi.
+
+## RaspController App
+
+<img width="300" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/c2eb6aa1-4f4a-40e7-b695-a99adf4f81cc.PNG"><br/>
+<img width="267" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/13293086-84eb-4753-af86-865f90fd4ae7.PNG">
+<img width="267" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/3077456c-bafa-4f18-8352-0a0bcb218d0e.PNG">
+
+
+
+
+
 
 
 
