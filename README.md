@@ -14,8 +14,8 @@
 
 ## Sensors
 
-<img width="400" alt="homepage" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/fef8d35e-0228-4e4d-b01a-ecbff321f9c9.PNG">
-<img width="400" alt="homepage" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/33a28de1-c5c7-4eee-b5f1-547dfa3cce92.PNG">
+<img width="300" alt="homepage" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/fef8d35e-0228-4e4d-b01a-ecbff321f9c9.PNG">
+<img width="300" alt="homepage" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/33a28de1-c5c7-4eee-b5f1-547dfa3cce92.PNG">
 
 
 
