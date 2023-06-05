@@ -23,9 +23,9 @@
 
 ## RaspController App
 
-<img width="300" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/c2eb6aa1-4f4a-40e7-b695-a99adf4f81cc.PNG"><br/>
-<img width="267" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/13293086-84eb-4753-af86-865f90fd4ae7.PNG">
-<img width="267" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/3077456c-bafa-4f18-8352-0a0bcb218d0e.PNG">
+<img width="250" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/c2eb6aa1-4f4a-40e7-b695-a99adf4f81cc.PNG"><br/>
+<img width="167" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/13293086-84eb-4753-af86-865f90fd4ae7.PNG">
+<img width="167" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/3077456c-bafa-4f18-8352-0a0bcb218d0e.PNG">
 
 
 
