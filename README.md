@@ -41,8 +41,25 @@
 
 <img width="300" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/b8a9d4c0-4a9f-44d2-a045-efffa3d7db0c.PNG"><br/>
 
+# About Project
 
+## Strenghts
 
+• Data from the sensors can be sent to the web page or app which can be accessed from anywhere in the world.<br/>
+• The system is cost-effective and affordable. So that everyone can use it freely.<br/>
+• High accuracy, Easy to use.<br/>
+
+## Applications
+
+• Digital temperature monitoring in laboratories.<br/>
+• Temperature monitoring in greenhouses.<br/>
+• Environment monitoring of warehouses for food safety.<br/>
+• Equipment monitoring in factories.<br/>
+
+## Future scope of our Project
+
+• The IOT Based weather Informative System is proposed to Real time Applications. It doesn’t need of any data centers physically because of we are creating a data Server in Cloud so that it doesn’t require any datacenter further. So It Reduces the Cost of Equipment. Many of the Innovative Researchers are interested towards The IOT based Real time Applications. So this System will helps to the Researcher for their further investigation of weather details.<br/>
+• The IOT Based Weather Informative System not only displays the weather parameters like Temperature, Altitude, Humidity and Pressure etc., but it also displays the weather location, Industry, Time and other weather information from this we can forecasts the weather details.<br/>
 
 
 
