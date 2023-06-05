@@ -27,6 +27,20 @@
 <img width="167" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/13293086-84eb-4753-af86-865f90fd4ae7.PNG">
 <img width="167" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/3077456c-bafa-4f18-8352-0a0bcb218d0e.PNG">
 
+# Features of the app:
+
+• GPIO Management.<br/>
+• CPU, Ram, Storage, Network monitoring.<br/>
+• Support for DHT11/22 sensors (Humidity and temperature).<br/>
+• Support for DS18B20 sensors (Temperature).<br/>
+• Support for BMP sensors (Pressure, temperature, altitude).<br/>
+
+## ThingSpeak
+
+• ThingSpeak is an IoT analytics platform service that allows you to aggregate , visualize and analyze live data streams in the cloud. You can send data to ThingSpeak from your devices , create instant visualization of live data , and send alerts. ThingSpeak enables engineers and scientists to prototype and build IoT systems without setting up servers or developing web software . It is an open data platform for the internet of things . Your device or application can communicate with ThingSpeak using a RESTful API , and you can either keep your data private or make it public.<br/>
+
+<img width="300" alt="app" src="https://github.com/nayandeep20028840/IOT-based-RASPBERRY_PI-Weather-Station/assets/97220336/b8a9d4c0-4a9f-44d2-a045-efffa3d7db0c.PNG"><br/>
+
 
 
 
