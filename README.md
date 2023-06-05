@@ -6,3 +6,10 @@
 • On the webserver side, a graphical user interface can be developed to properly visualize the weather data in tabular or graph format.<br/>
 
 # Working
+• Run Python Program in Terminal to Initialize Raspberry Pi.<br/>
+• Data Collected from DHT11 and BMP 180 Sensors.<br/>
+• Raspberry Pi send collected data to remote web server.<br/>
+• Data Visualization using Thingspeak.<br/>
+• Real time data analysis on Raspcontroller App.<br/>
+
+
